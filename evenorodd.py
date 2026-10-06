@@ -5,4 +5,4 @@ def even_odd(num):
         return "Odd number"
 
 if __name__ == "__main__":
-    print("Even and odd:", even_odd(20))
+    print("Even and odd:", even_odd(09))
